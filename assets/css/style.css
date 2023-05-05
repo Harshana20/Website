@@ -382,7 +382,7 @@ input:-ms-input-placeholder {
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 75%;
+    width: 100%;
     overflow: hidden;
 }
 
